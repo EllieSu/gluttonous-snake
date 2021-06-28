@@ -1,5 +1,8 @@
 # 貪食蛇
 
+## Play
+[馬上玩！](https://elliesu.github.io/gluttonous-snake/)
+
 ## 目的
 1. 寫一個小遊戲體驗一下做遊戲的成就感
 2. 鍵盤遊戲互動
